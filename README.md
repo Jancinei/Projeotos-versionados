@@ -1,2 +1,2 @@
 # Projeotos versionados
-Projetos versionados
+Projeto de boletim escolar, criado a partir do cruso em video
