@@ -1,5 +1,5 @@
 from time import sleep
-print ('Qual o valor da hiponenusa de qual trângulo')
+print ('Qual o valor da hiponenusa de qualquer triângulo')
 cateto_oposto = eval(input('Digite o valor do cateto oposto '))
 cateto_adjacente = eval(input('Digite o valor do cateto adjacente '))
 hipotenusa = (((cateto_adjacente **2) + (cateto_oposto**2)) ** 0.5)
