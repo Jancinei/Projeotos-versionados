@@ -5,6 +5,6 @@ termo = primeiro
 cont = 1
 while cont <= 10:
     print('{} -'.format(termo),  end='')
-    termo = termo + razao
+    termo += razao
     cont +=1
    
